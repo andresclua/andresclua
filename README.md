@@ -13,6 +13,5 @@ My name is Andres Clua!
 
 Feel free to reach out in case you want to just get in touch
 
-[![Github All Releases](https://img.shields.io/github/downloads/andresclua/es6-js-utilities/total.svg)]()
-
+![](https://komarev.com/ghpvc/?username=andresclua&color=green)
 
