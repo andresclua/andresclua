@@ -2,6 +2,7 @@
 ## About
 
 🤔 This is what I'm learning/working on these days:
+ - Astro
  - Nuxt
  - Sanity
  - Wordpress
