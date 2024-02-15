@@ -17,8 +17,9 @@ You can see some of my work here : https://instagram.com/dresclua | https://www.
 
 ## Packages that I manage
 - [JS Utilities](https://www.npmjs.com/package/@andresclua/jsutil)
-- [Collapsify](https://www.npmjs.com/package/@terrahq/collapsify)
 - [Debounce](https://www.npmjs.com/package/@andresclua/debounce-throttle)
+- [Attach Flow](https://www.npmjs.com/package/attachflow)
+- [Collapsify](https://www.npmjs.com/package/@terrahq/collapsify)
 
 ![](https://komarev.com/ghpvc/?username=andresclua&color=green)
 
