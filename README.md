@@ -18,14 +18,18 @@ I build digital experiences that feel fast, intentional, and well-crafted.
 
 ---
 
-## Open Source Packages
 
-| Package | Description |
-|---|---|
-| [@andresclua/jsutil](https://www.npmjs.com/package/@andresclua/jsutil) | JS utility functions |
-| [@andresclua/debounce-throttle](https://www.npmjs.com/package/@andresclua/debounce-throttle) | Lightweight debounce & throttle |
-| [attachflow](https://www.npmjs.com/package/attachflow) | DOM attachment utility |
-| [@terrahq/collapsify](https://www.npmjs.com/package/@terrahq/collapsify) | Accessible accordion/collapse |
+## Packages I maintain
+- [Boostify](https://boostifyjs.com/) — defer third-party scripts until the page is interactive
+- [JS Utilities](https://www.npmjs.com/package/@andresclua/jsutil)
+- [Debounce & Throttle](https://www.npmjs.com/package/@andresclua/debounce-throttle)
+- [Attach Flow](https://www.npmjs.com/package/attachflow)
+- [Collapsify](https://www.npmjs.com/package/@terrahq/collapsify)
+- [Custom Cursor](https://www.npmjs.com/package/@andresclua/custom-cursor) — lerp-based custom cursor with interactive states
+- [Validate](https://www.npmjs.com/package/@andresclua/validate) — lightweight form validation
+- [Creative](https://www.npmjs.com/package/@andresclua/creative) — utility toolkit for creative coding
+- [Perlin DOM](https://www.npmjs.com/package/@andresclua/perlindom) — Perlin noise motion for DOM elements
+- [Terra Helpers](https://www.npmjs.com/package/@terrahq/helpers) — lightweight JS helpers for common tasks
 
 ---
 
