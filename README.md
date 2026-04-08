@@ -1,7 +1,7 @@
-# Hey, I'm Andrés Clúa 👋
+# Hi, I'm Andrés Clúa 👋
 
-Creative Technologist & Director of Technology based in Bilbao, originally from Uruguay.  
-I build digital experiences that feel fast, intentional, and well-crafted.
+> Creative Technologist & Director of Technology  
+> 🇺🇾 Uruguay → 🇪🇸 Bilbao &nbsp;·&nbsp; Building fast, intentional digital experiences
 
 ---
 
@@ -13,34 +13,44 @@ I build digital experiences that feel fast, intentional, and well-crafted.
 ![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=flat&logo=sanity&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+![Canvas 2D](https://img.shields.io/badge/Canvas_2D-E34F26?style=flat&logo=html5&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat&logo=webgl&logoColor=white)
 
+👯 Looking to collaborate on frontend projects — feel free to reach out
+
 ---
 
+## Work
+https://instagram.com/dresclua &nbsp;·&nbsp; https://www.andresclua.com/
+
+---
 
 ## Packages I maintain
-- [Boostify](https://boostifyjs.com/) — defer third-party scripts until the page is interactive
-- [JS Utilities](https://www.npmjs.com/package/@andresclua/jsutil)
-- [Debounce & Throttle](https://www.npmjs.com/package/@andresclua/debounce-throttle)
-- [Attach Flow](https://www.npmjs.com/package/attachflow)
-- [Collapsify](https://www.npmjs.com/package/@terrahq/collapsify)
-- [Custom Cursor](https://www.npmjs.com/package/@andresclua/custom-cursor) — lerp-based custom cursor with interactive states
-- [Validate](https://www.npmjs.com/package/@andresclua/validate) — lightweight form validation
-- [Creative](https://www.npmjs.com/package/@andresclua/creative) — utility toolkit for creative coding
-- [Perlin DOM](https://www.npmjs.com/package/@andresclua/perlindom) — Perlin noise motion for DOM elements
-- [Terra Helpers](https://www.npmjs.com/package/@terrahq/helpers) — lightweight JS helpers for common tasks
+
+| Package | Category | Description |
+|---|---|---|
+| [Boostify](https://boostifyjs.com/) | Performance | Defer third-party scripts until the page is interactive |
+| [JS Utilities](https://www.npmjs.com/package/@andresclua/jsutil) | Utilities | General-purpose JS utility functions |
+| [Debounce & Throttle](https://www.npmjs.com/package/@andresclua/debounce-throttle) | Utilities | Lightweight debounce & throttle |
+| [Attach Flow](https://www.npmjs.com/package/attachflow) | UI | DOM attachment utility |
+| [Collapsify](https://www.npmjs.com/package/@terrahq/collapsify) | UI | Accessible accordion/collapse |
+| [Custom Cursor](https://www.npmjs.com/package/@andresclua/custom-cursor) | UI | Lerp-based custom cursor with interactive states |
+| [Validate](https://www.npmjs.com/package/@andresclua/validate) | Forms | Lightweight form validation |
+| [Creative](https://www.npmjs.com/package/@andresclua/creative) | Creative | Utility toolkit for creative coding |
+| [Perlin DOM](https://www.npmjs.com/package/@andresclua/perlindom) | Creative | Perlin noise motion for DOM elements |
+| [Terra Helpers](https://www.npmjs.com/package/@terrahq/helpers) | Utilities | Lightweight JS helpers for common tasks |
+
+## Figma Plugin
+
+| Plugin | Description |
+|---|---|
+| [Compressor Assets](https://www.figma.com/community/plugin/1603721295409652572/compressor-assets) | Compress and optimize exported assets directly from Figma |
 
 ---
 
-## Find me
+## Stats
 
-[![Portfolio](https://img.shields.io/badge/andresclua.com-000000?style=flat&logo=safari&logoColor=white)](https://www.andresclua.com/)
-[![Instagram](https://img.shields.io/badge/@dresclua-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/dresclua)
-[![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/~andresclua)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andresclua&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andresclua&layout=compact&theme=dark&hide_border=true&langs_count=6)
 
----
-
-👯 Open to collaborating on frontend projects — feel free to reach out.
-
-![Profile Views](https://komarev.com/ghpvc/?username=andresclua&color=green&style=flat)
+![](https://komarev.com/ghpvc/?username=andresclua&color=green&style=flat)
